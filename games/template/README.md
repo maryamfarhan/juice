@@ -1,18 +1,16 @@
-# Game Name
+# Game Name:  Karachi Rush
 
-**Team Members:** [Your names here]
+**Team Members:** Maryam Farhan
 
 **How would you pitch your game in one line?**
-[example format: "It's like [Game X] meets [Game Y] but with [Unique Element Z]" (doesn't have to follow this format)]
+Subway Surfers meets GTA6 on the bustling, chaotic streets of Karachi.
 
 **What is the key mechanic(s) that make it fun?**
-[Describe how the mechanic works, why it's fun/important, how it interacts with other mechanics, etc]
+Karachi Rush brings the city's chaos to life with fast-paced courier missions. Players dodge potholes, escape looters, navigate insane traffic, and switch between running, driving, and parkour. Time-based challenges and unpredictable events keep the gameplay exciting and dynamic.
 
 **How does the game actually play? (Core Game Loop)**
-[Describe what players do, what they're trying to achieve, what challenges they face, and what rewards they get, etc]
+Players take on the role of a courier tasked with delivering secret messages across Karachi. The clock is always ticking as they face obstacles like potholes, sudden VIP movements, looters, and gridlocked traffic. The player runs, jumps, drives, and occasionally fights their way through different levels, each representing a famous Karachi neighborhood. As players progress, the levels get tougher, with more complex routes and surprises. Completing missions unlocks upgrades, vehicles, and power-ups.
 
 **How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?**
-[Describe your plan for sustaining gameplay]
-
----
+The game keeps players hooked with Karachi-specific challenges, including traffic jams, protests, and chai breaks for energy boosts. Each level unlocks a new iconic location (like Saddar or Clifton), adding fresh challenges and visual variety. Daily missions, leaderboards, and unlockable characters (like the Pathan chaiwala or the rickshaw driver) keep players coming back. Randomized events like police chases or sudden rainstorms ensure every playthrough feels unique.
 *Remember: Focus on gameplay mechanics and player experience. Save the details about story, art style, sound design, UI flowcharts, marketing plans, or achievements for later.*
